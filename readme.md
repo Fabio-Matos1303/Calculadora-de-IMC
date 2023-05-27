@@ -1,0 +1,1 @@
+Olá! Este projeto visa criar uma calculadora que calcula seu IMC através de dados escritos em um formulário utilizando HTML5, CSS3, e JavaScript.
